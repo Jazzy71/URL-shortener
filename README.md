@@ -44,3 +44,5 @@ npm install
 npm start
 ##frontend runs on:
 http://localhost:3000
+
+###⚠️ Note: Some filess are not included. Please run `npm install` before starting the frontend. It will install all the required dependencies.
