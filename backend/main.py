@@ -33,7 +33,7 @@ def create_url(original_url: str):
     urls[code] = {
         "original_url": original_url,
         "clicks": 0,
-        "created_date": today,   # 🔥 important
+        "created_date": today,   
         "click_history": {}
     }
 
