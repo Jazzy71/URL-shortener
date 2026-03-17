@@ -40,6 +40,7 @@ http://127.0.0.1:8000
 
 ##frontend setup
 cd frontend
+cd vite-project
 npm install
 npm start
 ##frontend runs on:
