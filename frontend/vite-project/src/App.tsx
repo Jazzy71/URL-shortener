@@ -51,7 +51,7 @@ function App() {
     alert("Copied!");
   };
 
-  // 📊 MIXED CHART DATA
+  //MIXED CHART DATA
   const creationMap: any = {};
 
   urls.forEach((u) => {
@@ -194,7 +194,7 @@ function App() {
         </table>
       </div>
 
-      {/* 📊 MIXED CHART SECTION */}
+      {/* MIXED CHART SECTION */}
       <div style={{ width: "90%", margin: "20px auto", background: "white", padding: "20px" }}>
         <h3>Statistics</h3>
 
